@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
         <h2>Next reunion is July 1-7 2024 in Pago Pago, American Samoa!</h2>
     
-        <a href="https://forms.gle/GLYhkgwBngW7Rroj6">Family Reunion interest form</a>
+        <a href="https://www.eventbrite.com/e/suluoleava-2024-reunion-tickets-456165492267">Family Reunion Event Page</a>
         
         <img src="/suluoleava.jpg" />
       </main>
