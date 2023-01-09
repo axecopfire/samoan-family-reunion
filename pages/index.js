@@ -15,12 +15,13 @@ export default function Home() {
         <h1 className="title">
           Welcome to the Suluoleava Family Reunion home page!
         </h1>
-        <h2>Next reunion is 2024 in Samoa!</h2>
+        <h2>Next reunion is July 1-7 2024 in Pago Pago, American Samoa!</h2>
+        
         <img src="/suluoleava.jpg" />
       </main>
 
       <footer>
-        <p>Trademark 2024</p>
+        <p>Trademark 2023</p>
       </footer>
 
       <style jsx>{`
