@@ -1,7 +1,9 @@
 {
   "private": true,
+  "source": "src/index.html",
   "scripts": {
-    "start": "parcel src/index.html"
+    "start": "parcel src/index.html",
+    "build": "parcel build"
   },
   "dependencies": {},
   "devDependencies": {
